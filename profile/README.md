@@ -1,0 +1,7 @@
+# IBI Research
+
+**Website**: [Organization Website](https://www.ibi-research.de)
+
+The Institute for Biomedical Imaging (IBI) is a joint research department of the University Medical Center Hamburg-Eppendorf (UKE) and the Hamburg University of Technology (TUHH). We focus on medical imaging, i.e. non-invasive visualization of regions of the human body, which is crucial for the diagnosis, treatment, and follow-up of many diseases. High-quality, safe, and efficient imaging can support better medical decisions and help avoid unnecessary procedures. Our research centers on tomographic imaging, with a particular emphasis on Magnetic Resonance Imaging (MRI) and the emerging modality of Magnetic Particle Imaging (MPI). Specifically, we develop MPI hardware, investigate novel signal processing, image reconstruction, and image processing algorithms, and assess their medical applicability. In close collaboration with our clinical partners at UKE, we also pursue translational research aimed at integrating state-of-the-art acquisition and reconstruction methods into clinical practice.
+
+This organisation collects research software developed at IBI and published in the repsective scientific publications. For an overview of our research activities, please visit our [website](https://www.ibi-research.de).
