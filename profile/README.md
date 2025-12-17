@@ -33,7 +33,7 @@ This organization collects research software developed at IBI and published in t
   <tr>
     <td><a href="https://github.com/IBIResearch/SphericalHarmonicExpansionOfMagneticFields">SphericalHarmonicExpansionOfMagneticFields</a></td>
     <td>Representation of a static magnetic fields using solid harmonic expansions.</td>
-    <td>M. Boberg, T. Knopp, and M. Möddel (2025). Unique compact representation of magnetic fields using truncated solid harmonic expansions. European Journal of Applied Mathematics. doi: <a href="http://dx.doi.org/https://doi.org/10.1002/aisy.202400017">10.1002/aisy.202400017</a></td>
+    <td>M. Boberg, T. Knopp, and M. Möddel (2025). Unique compact representation of magnetic fields using truncated solid harmonic expansions. European Journal of Applied Mathematics. 36(5):1012-1039. doi: <a href="https://doi.org/10.1017/S0956792524000883">10.1017/S0956792524000883</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/IBIResearch/EllipsoidalHarmonicExpansions">EllipsoidalHarmonicExpansions</a></td>
@@ -58,12 +58,12 @@ This organization collects research software developed at IBI and published in t
   <tr>
     <td><a href="https://github.com/IBIResearch/MPSTransferFunction">MPSTransferFunction</a></td>
     <td> Application of an MPS transfer function to measured data. </td>
-    <td>  Thieben, T. Knopp, M. Boberg, F. Foerger, M.Graeser, and M. Möddel (2023). On the Receive Path Calibration of Magnetic Particle Imaging Systems. IEEE Transactions on Instrumentation and Measurement. 72. 1-15. doi: <a href="http://dx.doi.org/10.1109/TIM.2022.3219461">10.1109/TIM.2022.3219461</a>. </td>
+    <td> F. Thieben, T. Knopp, M. Boberg, F. Foerger, M.Graeser, and M. Möddel (2023). On the Receive Path Calibration of Magnetic Particle Imaging Systems. IEEE Transactions on Instrumentation and Measurement. 72. 1-15. doi: <a href="http://dx.doi.org/10.1109/TIM.2022.3219461">10.1109/TIM.2022.3219461</a>. </td>
   </tr>
   <tr>
     <td><a href="https://github.com/IBIResearch/IncreasedDynamicRange">IncreasedDynamicRange</a></td>
     <td>Two-step reconstruction of widely differing particle concentrations in magnetic particle imaging.</td>
-    <td>M. Boberg, N. Gdaniec, P. Szwargulski, F. Werner, M. Möddel, and T. Knopp. (2021). Simultaneous imaging of widely differing particle concentrations in MPI: problem statement and algorithmic proposal for improvement. Physics in Medicine & Biology, 66(9), 095004. doi: <a href="http://dx.doi.org/https://doi.org/10.1088/1361-6560/abf202">10.1088/1361-6560/abf202</a>. </td>
+    <td>M. Boberg, N. Gdaniec, P. Szwargulski, F. Werner, M. Möddel, and T. Knopp. (2021). Simultaneous imaging of widely differing particle concentrations in MPI: problem statement and algorithmic proposal for improvement. Physics in Medicine & Biology, 66(9), 095004. doi: <a href="http://dx.doi.org/10.1088/1361-6560/abf202">10.1088/1361-6560/abf202</a>. </td>
   </tr>
   <tr>
     <td><a href="https://github.com/IBIResearch/OptimizedSystemMatrixSampling">OptimizedSystemMatrixSampling</a></td>
