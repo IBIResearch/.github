@@ -24,7 +24,12 @@ This organization collects research software developed at IBI and published in t
     <th>Description</th>
     <th>Paper</th>
   </tr>
-  
+
+  <tr>
+    <td><a href="https://github.com/IBIResearch/MMR-Parameter-Estimation">MMR-Parameter-Estimation</a></td>
+    <td> Parameter estimation for model-based sensing of magneto-mechanical resonators (MMRs). </td>
+    <td> S. Reiss, T. Knopp, J. Ackers, J. Faltinath, F. Mohn, M. Boberg, N. Timm, and M. Möddel (2026). Parameter Estimation for Model-Based Sensing of Magneto-Mechanical Resonators. arXiv preprint. doi: <a href="https://doi.org/10.48550/arXiv.2602.19965">10.48550/arXiv.2602.19965</a>.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/IBIResearch/mpi-sm-restoration">mpi-sm-restoration</a></td>
     <td> Training and evaluation of deep learning models for system matrix restoration in magnetic particle imaging using simulated data. </td>
