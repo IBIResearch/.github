@@ -24,7 +24,12 @@ This organization collects research software developed at IBI and published in t
     <th>Description</th>
     <th>Paper</th>
   </tr>
-
+  
+  <tr>
+    <td><a href="https://github.com/IBIResearch/chem-resolved-mri/">chem-resolved-mri</a></td>
+    <td> Fast model-based MRI reconstruction for quantitative chemical composition mapping, with field-inhomogeneity correction and compressed sensing enabling robust molar-ratio imaging in as little as 5-20 seconds. </td>
+    <td> A. Tsanda, S. Benders, M. Adrian, A. Penn, and T. Knopp (2026). Rapid quantitative chemical composition mapping using model-based MRI reconstruction with field inhomogeneity correction. arXiv preprint. doi: <a href="https://doi.org/10.48550/arXiv.2607.24441">10.48550/arXiv.2607.24441</a>.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/IBIResearch/MMR-Parameter-Estimation">MMR-Parameter-Estimation</a></td>
     <td> Parameter estimation for model-based sensing of magneto-mechanical resonators (MMRs). </td>
@@ -33,7 +38,7 @@ This organization collects research software developed at IBI and published in t
   <tr>
     <td><a href="https://github.com/IBIResearch/mpi-sm-restoration">mpi-sm-restoration</a></td>
     <td> Training and evaluation of deep learning models for system matrix restoration in magnetic particle imaging using simulated data. </td>
-    <td> A. Tsanda, S. Reiss, M. Boberg, and T. Knopp (2025). Deep Learning for Restoring MPI System Matrices Using Simulated Training Data. arXiv preprint. doi: <a href="http://dx.doi.org/10.48550/arXiv.2511.23251">10.48550/arXiv.2511.23251</a>.</td>
+    <td> A. Tsanda, S. Reiss, M. Boberg, and T. Knopp (2025). Deep Learning for Restoring MPI System Matrices Using Simulated Training Data. Physics in Medicine & Biology. 71(9). doi: <a href="https://doi.org/10.1088/1361-6560/ae6016">10.1088/1361-6560/ae6016</a>.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/IBIResearch/SphericalHarmonicExpansionOfMagneticFields">SphericalHarmonicExpansionOfMagneticFields</a></td>
